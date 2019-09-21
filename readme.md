@@ -22,6 +22,7 @@ Features:
 
 ## How to compile acronym list:
 
+(overleaf does this automatically)
 Acronym list is built on [glossaries package](https://www.ctan.org/pkg/glossaries)
 after first compilation run `$ makeglossaries main.glo` from command
 line and then compile again.
