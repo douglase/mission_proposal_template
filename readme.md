@@ -13,7 +13,7 @@ Features:
     - table of contents with correct page numbers
     - acronym list
     - bibliography
-- Overleaf friendly
+- [Overleaf](https://www.overleaf.com/read/xvpprhvpqjpd) friendly
 - Compiling of multiple PDF files with consistent headers, footers and
   page numbering
 - Allow varying page sizes and orientations (e.g. schedule fold-outs)
